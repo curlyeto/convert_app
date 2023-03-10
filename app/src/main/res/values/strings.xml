@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">conversion_app</string>
+    <string-array name="unitOfMeasurementList">
+        <item>Select Measurement</item>
+        <item>km</item>
+        <item>cm</item>
+        <item>g</item>
+        <item>F</item>
+        <item>K</item>
+        <item>L</item>
+    </string-array>
+</resources>
